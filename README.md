@@ -22,7 +22,7 @@ I have a firm understanding of **Object Oriented Programing** and the **SOLID** 
 
 <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png">
 
-[linkedin]("https://www.linkedin.com/in/lawrence-haney-47a5881b9/)
+[linkedin](https://www.linkedin.com/in/lawrence-haney-47a5881b9/)
 
 [Resume](https://drive.google.com/file/d/1kCEBww3SJYcm9W2yI6mPzhhOeE1-e-Y6/view?usp=sharing)
 
