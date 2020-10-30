@@ -20,7 +20,8 @@ In Fall of 2020 I enrolled in Boise Codeworks’ Immersive Full Stack Program to
   
 I have a firm understanding of **Object Oriented Programing** and the **SOLID** principles that govern modern programing practices. I’ve built full stack applications with **Node.js** backends as well as **C#**. I hope to employ my development skills to build out elegant and response applications that exceed user expectations.
 
-<a href="assets/resume.pdf" class="image fit"><img src="assets/resume.pdf" alt=""></a>
+[Resume](https://drive.google.com/file/d/1kCEBww3SJYcm9W2yI6mPzhhOeE1-e-Y6/view?usp=sharing)
+
 When not behind the keyboard you can find my teaching and designing hobbyist board games, playing in amature disc golf leagues and occasinally judging and overseeing competitive card tournaments.
 
 <a href="https://icons8.com/icon/rY6agKizO9eb/vue-js">Icons provided by  Icons8</a>
