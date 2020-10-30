@@ -20,11 +20,9 @@ In Fall of 2020 I enrolled in Boise Codeworks’ Immersive Full Stack Program to
   
 I have a firm understanding of **Object Oriented Programing** and the **SOLID** principles that govern modern programing practices. I’ve built full stack applications with **Node.js** backends as well as **C#**. I hope to employ my development skills to build out elegant and response applications that exceed user expectations.
 
-<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png">
-
-[linkedin](https://www.linkedin.com/in/lawrence-haney-47a5881b9/)
-
 [Resume](https://drive.google.com/file/d/1kCEBww3SJYcm9W2yI6mPzhhOeE1-e-Y6/view?usp=sharing)
+
+[LinkedIn](https://www.linkedin.com/in/lawrence-haney-47a5881b9/)
 
 When not behind the keyboard you can find my teaching and designing hobbyist board games, playing in amature disc golf leagues and occasinally judging and overseeing competitive card tournaments.
 
