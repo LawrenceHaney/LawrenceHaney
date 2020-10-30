@@ -8,6 +8,7 @@
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 </div>
+
 I'm a full stack software developer with experience based in **JavaScript**, and **C#**. I have experience working with various frameworks including **Vue** 2 and am currently excited about the upcoming changes that vue 3 introduces. I enjoy the persistent puzzle that programming offers and thrive when solving new problems.
 
  
