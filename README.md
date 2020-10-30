@@ -1,7 +1,7 @@
 
 ## Lawrence Haney
 #### Full Stack Developer
-![C#](..\assets\icons8-c-sharp-logo-50.png/)
+<img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 I'm a full stack software developer with experience based in **JavaScript**, and **C#**. I have experience working with various frameworks including **Vue** 2 and am currently excited about the upcoming changes that vue 3 introduces. I enjoy the persistent puzzle that programming offers and thrive when solving new problems.
 
  
