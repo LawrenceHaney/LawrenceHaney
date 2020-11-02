@@ -1,16 +1,19 @@
 <template>
-  <div id="app">
+  <div id="app container-fluid">
+    <navbar/>
     <HelloWorld/>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import navbar from "./components/nav-bar.vue"
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    navbar
   }
 }
 </script>

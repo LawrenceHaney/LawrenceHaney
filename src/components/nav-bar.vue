@@ -1,0 +1,18 @@
+<template>
+  <nav class="nav justify-content-end row">
+    <a class="nav-link active" href="#">Active link</a>
+    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link disabled" href="#">Disabled link</a>
+  </nav>
+</template>
+
+<script>
+export default {
+  name: "navbar"
+
+}
+</script>
+
+<style>
+
+</style>
