@@ -1,12 +1,11 @@
 <template>
-  <div class="hello row">
+  <div class="row">
     <div class="jumbotron jumbotron-fluid col-12">
       <div class="container">
       <h1 class="display-4">Lance Haney</h1>
-      <p class="lead">Placeholder hero text</p>
+      <p class="lead text-monospace">Full Stack Developer</p>
     </div>
-
-</div>
+  </div>
   </div>
 </template>
 
