@@ -6,7 +6,7 @@
     <about/>
     <projects/>
     <history/>
-    <projects/>
+    <links/>
     <flavor/>
     </main>
   </div>
@@ -19,6 +19,7 @@ import projects from "./components/projects.vue"
 import about from "./components/about.vue"
 import history from "./components/history.vue"
 import flavor from "./components/flavor.vue"
+import links from "./components/links.vue"
 export default {
   name: 'App',
   components: {
@@ -27,7 +28,8 @@ export default {
     projects,
     about,
     history,
-    flavor
+    flavor,
+    links
   }
 }
 </script>

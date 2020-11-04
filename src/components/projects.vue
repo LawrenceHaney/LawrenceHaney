@@ -1,5 +1,5 @@
 <template>
-  <div class="row p-2 d-flex justify-content-around">
+  <div id="tech" class="row py-5 px-2 d-flex justify-content-around">
     <div class="col-4 justify-content-center d-flex flex-column text-center animate__animated animate__zoomInLeft">
       <img src="https://img.icons8.com/color/144/000000/c-sharp-logo.png"/>
       <h6>C#</h6>

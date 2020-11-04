@@ -1,8 +1,9 @@
 <template>
   <nav class="nav justify-content-end navbar-dark bg-dark sticky-top">
-    <a class="nav-link active" href="about">About</a>
-    <a class="nav-link" href="#">Link</a>
-    <a class="nav-link disabled" href="#">Disabled link</a>
+    <a class="nav-link active" href="#about">About</a>
+    <a class="nav-link active" href="#tech">Tech</a>
+    <a class="nav-link active" href="#history">History</a>
+    <a class="nav-link" href="#links">Projects</a>
   </nav>
 </template>
 
@@ -14,5 +15,7 @@ export default {
 </script>
 
 <style>
-
+html {
+  scroll-behavior: smooth;
+}
 </style>
