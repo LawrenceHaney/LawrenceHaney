@@ -24,6 +24,13 @@ I have a firm understanding of **Object Oriented Programing** and the **SOLID** 
 
 [LinkedIn](https://www.linkedin.com/in/lawrence-haney-47a5881b9/)
 
+
+###Projects
+[DCDR](https://dcdr.herokuapp.com/#/)
+[Kanban](https://demokanban.herokuapp.com/#/)
+[Inspire](https://lawrencehaney.github.io/inspire/)
+
+
 When not behind the keyboard you can find my teaching and designing hobbyist board games, playing in amature disc golf leagues and occasinally judging and overseeing competitive card tournaments.
 
 <a href="https://icons8.com/icon/rY6agKizO9eb/vue-js">Icons provided by  Icons8</a>
