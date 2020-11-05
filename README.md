@@ -25,11 +25,16 @@ I have a firm understanding of **Object Oriented Programing** and the **SOLID** 
 [LinkedIn](https://www.linkedin.com/in/lawrence-haney-47a5881b9/)
 
 
-###Projects
-[DCDR](https://dcdr.herokuapp.com/#/)
-[Kanban](https://demokanban.herokuapp.com/#/)
-[Inspire](https://lawrencehaney.github.io/inspire/)
+### Projects
 
+[DCDR](https://dcdr.herokuapp.com/#/)
+A way for gamers to quickly pick what game to play
+
+[Kanban](https://demokanban.herokuapp.com/#/)
+A Trello-like board for productivity tracking
+
+[Inspire](https://lawrencehaney.github.io/inspire/)
+A minimal landing page with sevral api hookins
 
 When not behind the keyboard you can find my teaching and designing hobbyist board games, playing in amature disc golf leagues and occasinally judging and overseeing competitive card tournaments.
 
